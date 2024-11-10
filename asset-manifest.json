@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tusharbendre01/Full-Stack-Spring-Boot-and-React-CURD/static/css/main.9a5c6096.css",
+    "main.js": "/Tusharbendre01/Full-Stack-Spring-Boot-and-React-CURD/static/js/main.d3f04535.js",
+    "static/js/453.7b59ab40.chunk.js": "/Tusharbendre01/Full-Stack-Spring-Boot-and-React-CURD/static/js/453.7b59ab40.chunk.js",
+    "static/media/logo.svg": "/Tusharbendre01/Full-Stack-Spring-Boot-and-React-CURD/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tusharbendre01/Full-Stack-Spring-Boot-and-React-CURD/index.html",
+    "main.9a5c6096.css.map": "/Tusharbendre01/Full-Stack-Spring-Boot-and-React-CURD/static/css/main.9a5c6096.css.map",
+    "main.d3f04535.js.map": "/Tusharbendre01/Full-Stack-Spring-Boot-and-React-CURD/static/js/main.d3f04535.js.map",
+    "453.7b59ab40.chunk.js.map": "/Tusharbendre01/Full-Stack-Spring-Boot-and-React-CURD/static/js/453.7b59ab40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a5c6096.css",
+    "static/js/main.d3f04535.js"
+  ]
+}
